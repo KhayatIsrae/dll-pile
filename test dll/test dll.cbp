@@ -13,10 +13,10 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-g" />
-					<Add directory="C:/Users/HP/Desktop/israe ik/FSTm/dll_piles" />
+					<Add directory="C:/Users/HP/Desktop/israe ik/Cpp/dll_piles" />
 				</Compiler>
 				<Linker>
-					<Add library="C:/Users/HP/Desktop/israe ik/FSTm/dll_piles/bin/Debug/libdll_piles.a" />
+					<Add library="C:/Users/HP/Desktop/israe ik/Cpp/dll_piles/bin/Debug/libdll_piles.a" />
 				</Linker>
 			</Target>
 			<Target title="Release">
